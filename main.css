@@ -1,0 +1,97 @@
+body{
+	background-color:;
+	border: solid #000000 2px;
+	margin: 5px;
+}
+header{
+    background-color: gray;
+    padding: 1%;
+}
+#h_h1{}
+#h_logo{
+	display: flex;
+}
+#hl1{
+	flex: 4;
+}
+#hl2{
+	flex: 1;
+}
+#hl3{
+	flex: 4;
+}
+#pixologo{
+	width: 100px;
+}
+#top_bar{
+	background-color: lightgray;
+	padding: 1%;
+	display: flex;
+}
+.tb_elem{
+    flex: 1;
+}
+#extra{
+	flex: 6;
+}
+section{background-color: powderblue;}
+.s_top{
+	display: flex;
+	background-color: #282b34;
+}
+.st_left{
+	flex: 1;
+	border-radius: 10px;
+}
+#stl_p{color: white;padding: 2%;font-size: larger;font-family: cursive;}
+.st_right{
+	flex: 1
+}
+.s_mid{
+}
+.s_bottom{
+    display: flex;
+    background-color: #282b34;
+    padding: 1%;
+}
+.sb_left{
+    flex: 1;
+}
+.sb_right{
+    flex: 1;
+}
+#sbr_p{
+}
+#sbr_l{
+	
+color: white;
+	
+font-family: cursive;
+	
+font-size: larger;
+}
+.img{
+	border-left: solid gray 5px;
+}
+footer{
+	display: flex;
+	background-color: black;
+	background-color: 
+	display: flex;
+	padding: 2%;
+}
+#f_left{
+	flex: 1;
+}
+#f_mid{
+	flex: 1;
+}
+#fm_p{
+	color:wheat;
+	font-style: italic;
+	font-size: large;
+	font-family: cursive;
+}
+#f_right{
+	flex: 1;
+}
